@@ -23,7 +23,7 @@ export const HomePage: React.FC = () => {
               </div>
 
               <h1 className="text-4xl sm:text-5xl lg:text-6xl font-extrabold tracking-tight leading-tight">
-                Simple shopping. <br />
+                Simple - shopping. <br />
                 <span className="text-transparent bg-clip-text bg-gradient-to-r from-amber-400 via-orange-300 to-amber-200">
                   Elevated essentials.
                 </span>

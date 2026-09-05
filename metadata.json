@@ -1,0 +1,6 @@
+{
+  "name": "MiniShop",
+  "description": "A simple and professional e-commerce website with product catalog, cart, checkout, and order confirmation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
